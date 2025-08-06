@@ -1,0 +1,13 @@
+# Dependencies
+/node_modules
+
+# Environment Variables
+.env
+.env.local
+
+# Build files
+.next/
+/dist/
+
+# Cache
+.cache/
